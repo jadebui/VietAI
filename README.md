@@ -1,5 +1,5 @@
 # VietAI
-Giới thiệu khóa học
+# Giới thiệu khóa học
 
 ● Tuần 1: Tổng quan về khóa học. Ôn tập kiến thức toán học (linear algebra,
 probability, calculus). Lập trình Python & NumPy.
@@ -30,7 +30,7 @@ cải tiến của mô hình sequence-to-sequence
 ● Tuần 10: Ôn tập, tổng kết môn học. Thuyết trình về đồ án khóa học.
 Assignment
 
-Khóa học bao gồm 4 bài Assignment
+# Khóa học bao gồm 4 bài Assignment
 
 ● Assignment 1: Logistict_Regression&Softmax_regression
 
